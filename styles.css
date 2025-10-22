@@ -1,0 +1,54 @@
+.blue{
+    color: blue;
+    background-color: rgb(169, 169, 228);
+    font-family: sans-serif;
+    border-radius: 7px;
+   box-shadow: 0px 0px 10px rgb(2, 2, 126);
+    border: 2px solid rgb(1, 1, 121);
+}
+.aqua{
+    color: rgb(10, 184, 184);
+    background-color: rgb(187, 221, 221);
+    font-family: sans-serif;
+     border-radius: 7px;
+     box-shadow: 0px 0px 10px rgb(1, 139, 139);
+      border: 2px solid rgb(1, 82, 82);
+}
+
+.purple{
+    color: purple;
+    background-color: rgb(207, 156, 207);
+    font-family: sans-serif;
+     border-radius: 7px;
+     box-shadow: 0px 0px 10px rgb(102, 1, 102);
+   border: 2px solid rgb(93, 2, 93);
+}
+.gold{
+color: rgb(202, 174, 15);
+background-color: rgb(245, 238, 196);
+font-family: sans-serif;
+ border-radius: 7px;
+ box-shadow: 0px 0px 10px rgb(203, 173, 2);
+   border: 2px solid rgb(107, 91, 2);
+}
+.pink{
+    color: rgb(220, 120, 136);
+    background-color: rgb(246, 197, 205);
+    font-family:sans-serif ;
+    border-radius: 7px;
+    box-shadow: 0px 0px 10px rgb(233, 2, 40);
+    border: 2px solid rgb(104, 2, 19);
+}
+.white{
+    color: white;
+    border: white;
+    font-family: sans-serif;
+}
+#h-1{
+    color: red;
+    font-family: sans-serif;
+    border-radius: 7px;
+    border: 2px solid rgb(124, 2, 2);
+    width: 325px;
+    border-width: 10px;
+}
